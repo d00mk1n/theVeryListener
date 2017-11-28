@@ -1,4 +1,4 @@
-<%@ page import="Java.PubSubHom.java" %>
+<%@ page import="Java.PubSubHome;" %>
 <html>
   <head>
     <meta http-equiv="refresh" content="10">
