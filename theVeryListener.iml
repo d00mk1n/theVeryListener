@@ -70,7 +70,6 @@
     <orderEntry type="library" name="Maven: com.google.cloud.datastore:datastore-v1-proto-client:1.5.1" level="project" />
     <orderEntry type="library" name="Maven: com.google.http-client:google-http-client-protobuf:1.20.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.google.appengine:appengine-api-stubs:1.9.59" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: com.google.appengine:appengine-tools-sdk:1.9.59" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-all:1.10.19" level="project" />
   </component>
 </module>
