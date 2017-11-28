@@ -36,6 +36,7 @@ public class PubSubPush extends HttpServlet {
     Message message = getMessage(req);
     try {
       messageRepository.save(message);
+      System.out.println("!_!_!_!_!_! message: "+message);
       // 200, 201, 204, 102 status codes are interpreted as success by the Pub/Sub system
       resp.setStatus(HttpServletResponse.SC_OK);
     } catch (Exception e) {
